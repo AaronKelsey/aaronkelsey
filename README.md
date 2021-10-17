@@ -1,7 +1,7 @@
 # Hello! :wave: 
 Welcome to my profile!
 
-My name is Aaron Kelsey and I am a back-end software engineer at Hitachi Vantara (@hitachivantara).
+My name is Aaron Kelsey and I am a back-end software engineer at Zopa (@ZopaUK).
 
 
 ## 📬 Get in touch
